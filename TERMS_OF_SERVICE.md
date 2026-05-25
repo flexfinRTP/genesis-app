@@ -1,4 +1,4 @@
-# Terms of Service for Genesis - Sober & Free
+# Terms of Service for Genesis
 
 **Last Updated: December 2025**
 
