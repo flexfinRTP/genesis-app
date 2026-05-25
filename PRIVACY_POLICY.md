@@ -1,4 +1,4 @@
-# Privacy Policy for Genesis - Sober & Free
+# Privacy Policy for Genesis
 
 **Last Updated: December 2025**
 
