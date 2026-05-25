@@ -1,4 +1,4 @@
-# 🔥 Genesis - Sober & Free | Legal Documents
+# 🔥 Genesis | Legal Documents
 
 Legal documents for the Genesis mobile application, hosted on GitHub Pages.
 
@@ -13,13 +13,13 @@ Legal documents for the Genesis mobile application, hosted on GitHub Pages.
 
 ## 📱 About Genesis
 
-**Track your clean days. No account, no cloud, no BS. Private & free.**
+**Track your days. No account, no cloud, no BS. Private & free.**
 
-Genesis is a privacy-first recovery and wellness tracker for people who mean it:
+Genesis is a privacy-first wellness tracker for people who mean it:
 
 - 🆓 **100% FREE** - All features unlocked, forever
 - 🔒 **Privacy First** - All data stays on YOUR phone
-- 📊 **17 Addiction Types** - Alcohol, cannabis, opioids, gambling, and more
+- 📊 **17 Habit Types** - Alcohol, cannabis, opioids, gambling, and more
 - 🏋️ **50+ Exercises** - Full workout planner included
 - 🎨 **26 Dark Themes** - Make it yours
 - 🙏 **400+ Motivational Messages** - 8 faith traditions + secular
